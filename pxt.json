@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "tcs3200.ts"
+        "tcs3200.ts",
+        "Joystick.ts"
     ],
     "testFiles": [
         "test.ts"
